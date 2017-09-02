@@ -5,7 +5,7 @@
 
 	<groupId>uk.co.sonikblue</groupId>
 	<artifactId>msg-users</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>msg-users</name>
